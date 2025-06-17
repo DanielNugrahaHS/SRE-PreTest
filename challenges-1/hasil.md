@@ -1,5 +1,5 @@
 Hasil Jika script berjalan mencari 60 menit terakhir :
-![alt text](image.png)
+SRE-PreTest/challenges-1/hasil60menit.png
 
 Hasil Jika script berjalan mencari 10 Menit terakhir :
-![alt text](image.png)
+SRE-PreTest/challenges-1/hasil10menit.png
